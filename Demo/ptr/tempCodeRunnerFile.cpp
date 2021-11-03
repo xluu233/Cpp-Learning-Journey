@@ -1,0 +1,1 @@
+    // cout<< ptr6->id << ":" << ptr6->name <<endl;
